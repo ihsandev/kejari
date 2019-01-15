@@ -22740,7 +22740,7 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgs
 
 /***/ }),
 
-/***/ 8:
+/***/ 7:
 /*!***************************************!*\
   !*** multi ./pages/gallery/index.jsx ***!
   \***************************************/
@@ -22765,5 +22765,5 @@ module.exports = dll_6f4f7e3c49ef3773c914;
 
 /***/ })
 
-},[[8,"static/runtime/webpack.js"]]]));;
+},[[7,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=gallery.js.map
