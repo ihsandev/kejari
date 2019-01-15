@@ -1038,7 +1038,7 @@ var Meta = {
   author: "Reactism",
   favicon: "/static/logo_kejari_color.png",
   url: "https://reactism.io",
-  theme_color: "#17c0eb",
+  theme_color: "#009933",
   facebook: {
     app_id: "",
     page_id: ""
